@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+header{
+    background-color: orange;
+    border: 2px solid rgb(255, 255, 255);
+    text-align: center;
+}
+.contenedorpadre{
+    position: relative;
+
+}
+.contenedorhijo2{
+    top: 20%;
+    left: 30%;  
+}
+.contenedorhijo{
+    position: absolute;
+    top: 20%;
+    left: 60%;
+}
+.conte1{
+    position: absolute;
+    top: 200%;
+    left: 60%;
+}
+.conte2{
+    position: absolute;
+    top: 200%;
+    
+}
+
